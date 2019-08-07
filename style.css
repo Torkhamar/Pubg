@@ -1,0 +1,79 @@
+body{margin:0; padding:0;}
+
+.banner{width:900px; margin-left:100px;}
+
+.main{width:1300px; margin:0 auto;}
+
+.top{background:#999999; width:1300px; height:130px;}
+
+.box{width:1300px; float:left;}
+
+.logo{float:left;}
+
+.logo h2{padding-top:30px; padding-left:150px;color:#FFFFFF; text-align:center;}
+
+.menu{float:right;padding-top:30px; padding-right:20px;}
+
+.menu ul{}
+
+.menu ul li{list-style:none; float:left; font-size:20px; padding-left:50px;}
+
+.menu ul li a{text-decoration:none; color:#FFFFFF;}
+
+.menu ul li a:hover{color:#00FF00;}
+
+.left{float:left; width:1000px;}
+
+.intro{}
+
+.intro h1{text-align:center;}
+
+.intro p{margin-left:100px; line-height:25px; text-align:justify;background-color:#}
+
+.right{width:250px; height:400px; background:#CCCCCC;margin-left:1050px;margin-top:80px;border-radius:10px;}
+
+.right h2{text-align:center;}
+
+.right ul{padding-bottom:300px}
+
+.right ul li{list-style:none; line-height:35px; font-size:23px;}
+
+.right ul li a{color:#000000; text-decoration:none;}
+
+.right ul li a:hover{color:#FF0000;}
+
+.box2{width:1300px; float:left;margin-left:100px}
+
+.box2 h1{text-align:center;}
+
+.staff{background:#CCCCCC; float:left; padding:20px; border-radius:10px; border:2px solid #0000FF; padding-left:50px; padding-right:50px; margin-left:20px}
+
+.staff h2{text-align:center;}
+
+.staff img{width:200px; height:200px;}
+
+.staff p{text-align:center;}
+
+.footer{background:url(images/dark_embroidery.png); width:1300px; height:300px; float:left; border-radius:0 0 20px 20px; margin-top:10px;}
+
+.social{padding-left:20px; float:left; padding-right:200px;}
+
+.social h2{color:#FFFFFF;}
+
+.social ul{}
+
+.social ul li{font-size:20px; line-height:25px; list-style:none;}
+
+.social ul li a{color:#FFFFFF; text-decoration:none;}
+
+.social ul li a:hover{color:#00FF00;}
+
+.add{color:#FFFFFF;float:left; width:300px; text-align:center;}
+
+.add h2{}
+
+.add p{line-height:25px;}
+
+.detail{padding-top:200px;}
+
+.detail h3{color:#666666;}
